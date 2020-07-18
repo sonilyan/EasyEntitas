@@ -1,0 +1,12 @@
+.vs
+Build
+Library
+obj
+Temp
+/*.csproj
+/*.sln
+.idea/
+Entitas-NoCodeGenerator.sln.DotSettings.user
+/ProjectSettings
+/Packages
+/Logs
